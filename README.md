@@ -36,13 +36,15 @@
 - ⚡ Fun fact: I Love 🏀Basketball, :electron:Quantom, 🚀Space and 🎮Dota 2
 
 ### Persian Flutter Community
-i'm a leader of Persian flutter if you speak persian and love flutter you can join ous now
+i'm a leader of Persian flutter if you speak persian and love flutter you can join us now
 
-- find all thing about persianflutter.com in our website
-- we have slack workstation so you can join us there 
+- Find all thing about Persian Flutter in our [website](https://persianflutter.com/)
+- We have slack workstation so you can join us there <a href="https://join.slack.com/t/persianflutter/shared_invite/zt-lw6dkij5-wMkJhP~GTchpVwvXo2KYDQ">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+</a>
 
 ### Languages & Tools
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
@@ -50,6 +52,4 @@ i'm a leader of Persian flutter if you speak persian and love flutter you can jo
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-
-
 </div>

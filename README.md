@@ -54,3 +54,8 @@ i'm a leader of Persian flutter if you speak persian and love flutter you can jo
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 </div>
+
+### GitHub Statistics
+[![Payam Zahedi GitHub Stats](https://github-readme-stats.vercel.app/api?username=payam-zahedi&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payam-zahedi)](https://github.com/anuraghazra/github-readme-stats)

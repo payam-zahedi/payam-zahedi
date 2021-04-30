@@ -58,4 +58,4 @@ i'm a leader of Persian flutter if you speak persian and love flutter you can jo
 ### GitHub Statistics
 [![Payam Zahedi GitHub Stats](https://github-readme-stats.vercel.app/api?username=payam-zahedi&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payam-zahedi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payam-zahedi&theme=nord)](https://github.com/anuraghazra/github-readme-stats)

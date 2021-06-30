@@ -40,9 +40,12 @@
 i'm a leader of Persian flutter if you speak persian and love flutter you can join us now
 
 - Find all thing about Persian Flutter in our [website](https://persianflutter.com/)
-- We have slack workstation so you can join us there <a href="https://join.slack.com/t/persianflutter/shared_invite/zt-lw6dkij5-wMkJhP~GTchpVwvXo2KYDQ">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
-</a>
+- We have have discord Server and you can find it here <a href="http://discord.link/PersianFlutter">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
+    </a>
+- We also have slack workstation so you can join us there <a href="https://join.slack.com/t/persianflutter/shared_invite/zt-lw6dkij5-wMkJhP~GTchpVwvXo2KYDQ">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+    </a>
 
 ### Languages & Tools
 <div>

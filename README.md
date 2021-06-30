@@ -37,7 +37,7 @@
 - ⚡ Fun fact: I Love 🏀Basketball, :electron:Quantom, 🚀Space and 🎮Dota 2
 
 ### Persian Flutter Community
-i'm a leader of Persian flutter if you speak persian and love flutter you can join us now
+I'm a leader of Persian Flutter, if you speak Persian and love Flutter you can join us now
 
 - Find all thing about Persian Flutter in our <a href="http://persianflutter.com">
         <img src="https://img.shields.io/website-up-down-green-red/http/persianflutter.com.svg" />
